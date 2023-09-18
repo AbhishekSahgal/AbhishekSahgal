@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sahgal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-![people-at-work](https://github.com/AbhishekSahgal/AbhishekSahgal/assets/98470181/988f9e0f-baf4-4a11-b714-9674eb15a7e7)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksahgal&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksahgal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksahgal" alt="abhisheksahgal" /></a> </p>
