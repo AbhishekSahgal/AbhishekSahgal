@@ -25,7 +25,7 @@
           <p>📚 I continuously explore new technologies including 🗄️ SQL/NoSQL databases, 🐳 AI/ML, and ☁️ cloud platforms to enhance my development skills and stay industry-ready.</p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=android,ios,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+            <img src="https://skillicons.dev/icons?i=bootstrap,ios,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
           </p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
