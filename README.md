@@ -25,7 +25,7 @@
           <p>📚 I continuously explore new technologies including 🗄️ SQL/NoSQL databases, 🐳 AI/ML, and ☁️ cloud platforms to enhance my development skills and stay industry-ready.</p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=bootstrap,ios,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+            <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,androidstudio,firebase,vscode,windows" alt="My Tech Stack" />
           </p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
@@ -43,7 +43,7 @@
       <b>Languages</b>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,js,ts,py,dart" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=java,js,dart,py,c" alt="Languages" />
     </td>
   </tr>
 
@@ -52,7 +52,7 @@
       <b>Frontend</b>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend" />
     </td>
   </tr>
 
@@ -70,7 +70,7 @@
       <b>Database</b>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" alt="Database" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database" />
     </td>
   </tr>
 
@@ -79,7 +79,7 @@
       <b>DevOps & Tools</b>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,postman,idea,vscode,nginx,jenkins" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,androidstudio,windows" alt="DevOps" />
     </td>
   </tr>
 
@@ -88,7 +88,7 @@
       <b>Cloud</b>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws,netlify," alt="Cloud" />
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@
 <h2 align="center">📊 Activity & Analytics</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=giasinguyen&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AbhishekSahgal&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
   
   <br/>
 </div>
@@ -106,13 +106,13 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen">
-        <img src="https://acedev003-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&hide_border=true" alt="Stats" />
+      <a href="https://github.com/AbhishekSahgal">
+        <img src="https://acedev003-readme-stats.vercel.app/api?username=AbhishekSahgal&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&hide_border=true" alt="Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen">
-        <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit&hide_border=true" alt="Languages" />
+      <a href="https://github.com/AbhishekSahgal">
+        <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=AbhishekSahgal&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit&hide_border=true" alt="Languages" />
       </a>
     </td>
   </tr>
@@ -121,8 +121,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/giasinguyen">
-    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&bg_color=0d1117&color=ffffff&line=FF3355&point=FF3355&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/AbhishekSahgal">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=AbhishekSahgal&bg_color=0d1117&color=ffffff&line=FF3355&point=FF3355&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
@@ -131,17 +131,18 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/aurora-hotel-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=aurora-hotel-management-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Aurora Hotel" />
+      <a href="https://github.com/AbhishekSahgal/Aspect_Based_Sentiment_Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekSahgal&repo=Aspect_Based_Sentiment_Analysis&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Aurora Hotel" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/codehub-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=codehub-platform&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="CodeHub Platform" />
+      <a href="https://github.com/AbhishekSahgal/Flutter_Notes_Application
+">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekSahgal&repo=Flutter_Notes_Application&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="CodeHub Platform" />
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" width="50%">
       <a href="https://github.com/giasinguyen/snapnow-social-media-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=snapnow-social-media-app&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SnapNow" />
@@ -152,8 +153,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=solestore-ecommerce&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SoleStore" />
       </a>
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
     <td align="center" width="50%">
       <a href="https://github.com/giasinguyen/huongbien-restaurant-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=huongbien-restaurant-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="HuongBien Restaurant" />
@@ -164,7 +165,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=giasi-dev-portfolio&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Portfolio" />
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <br>
 
