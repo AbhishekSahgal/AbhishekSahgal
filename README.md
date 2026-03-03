@@ -55,16 +55,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend" />
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>Backend</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" alt="Backend" />
-    </td>
-  </tr>
-
+  
   <tr>
     <td align="center" width="130" valign="middle">
       <b>Database</b>
@@ -185,12 +176,10 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-FF3355?style=for-the-badge&logoColor=white)](https://nguyentrangiasi.id.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/USER.NTGS)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iamgiasi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giasinguyen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giasinguyen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giasinguyentran@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_Website-FF3355?style=for-the-badge&logoColor=white)](bhisheksahgal.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sahgal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek_sahgal_19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksahgal19@gmail.com)
 
 <br>
 
@@ -206,11 +195,11 @@
 
 <br>
 
-<sub>Made with 💖 and ☕ by <b>Nguyen Tran Gia Si</b>
+<sub>Made with 💖 and ☕ by <b>Abhishek Sahgal</b>
 </sub>
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekSahgal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AbhishekSahgal)
 </div>
 
