@@ -21,11 +21,11 @@
             </h2>
           </div>
           <p>👨‍💻 👨‍💻 I'm a passionate Full Stack Developer and B.Tech (IT) student with a strong interest in building innovative web and mobile applications.</p>
-          <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
-          <p>📚 I constantly explore new technologies, from databases (🗄️ SQL/NoSQL) to DevOps tools (🐳 Docker/K8s) and ☁️ Cloud platforms (AWS/Cloudinary).</p>
+          <p>🚀 I focus on writing clean, efficient code, designing structured architectures, and solving real-world problems through practical projects like my GATE progress tracking application.</p>
+          <p>📚 I continuously explore new technologies including 🗄️ SQL/NoSQL databases, 🐳 AI/ML, and ☁️ cloud platforms to enhance my development skills and stay industry-ready.</p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+            <img src="https://skillicons.dev/icons?i=android,ios,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
           </p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
