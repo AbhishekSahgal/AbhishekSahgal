@@ -20,7 +20,7 @@
               <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
             </h2>
           </div>
-          <p>👨‍💻 I'm a passionate Full Stack Developer specializing in the ☕ <b>Java ecosystem (Spring Boot 🍃)</b> and modern frontend with ⚛️ <b>ReactJS & Next.js</b>.</p>
+          <p>👨‍💻 👨‍💻 I'm a passionate Full Stack Developer and B.Tech (IT) student with a strong interest in building innovative web and mobile applications.</p>
           <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
           <p>📚 I constantly explore new technologies, from databases (🗄️ SQL/NoSQL) to DevOps tools (🐳 Docker/K8s) and ☁️ Cloud platforms (AWS/Cloudinary).</p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
