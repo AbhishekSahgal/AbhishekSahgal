@@ -126,9 +126,9 @@
   </a>
 </div>
 
-<h2 align="center">🚀 Featured Repositories</h2>
+<!-- <h2 align="center">🚀 Featured Repositories</h2> -->
 
-<table align="center" border="0">
+<!-- <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/AbhishekSahgal/Aspect_Based_Sentiment_Analysis">
@@ -142,7 +142,7 @@
       </a>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/giasinguyen/snapnow-social-media-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=snapnow-social-media-app&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SnapNow" />
@@ -153,8 +153,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=solestore-ecommerce&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SoleStore" />
       </a>
     </td>
-  </tr> -->
-  <!-- <tr>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/giasinguyen/huongbien-restaurant-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=huongbien-restaurant-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="HuongBien Restaurant" />
@@ -165,8 +165,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=giasi-dev-portfolio&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Portfolio" />
       </a>
     </td>
-  </tr> -->
-</table>
+  </tr>
+</table> -->
 <br>
 
 <div align="center">
