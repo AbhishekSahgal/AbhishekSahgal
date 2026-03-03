@@ -176,7 +176,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-FF3355?style=for-the-badge&logoColor=white)](bhisheksahgal.netlify.app)
+[![Website](https://img.shields.io/badge/🌐_Website-FF3355?style=for-the-badge&logoColor=white)](abhisheksahgal.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sahgal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek_sahgal_19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksahgal19@gmail.com)
