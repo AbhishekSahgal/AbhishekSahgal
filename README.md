@@ -6,7 +6,7 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/8469933.jpg" alt="banner" />
 </h1>  -->
 <h1 align="center" style="margin-left: 10px;">
-  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
+  <!-- <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" /> -->
 </h1>
 <br>
 <div align="center" style="background-color: #0d1117;">
