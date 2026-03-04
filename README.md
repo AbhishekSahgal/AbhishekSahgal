@@ -60,9 +60,6 @@
 
 </div>
 
-> 💡 **To enable the snake:** Go to your profile repo → Actions → Enable workflows  
-> Then add [this workflow](https://github.com/Platane/snk#readme) to generate the SVG.
-
 ---
 
 ## 🤝 Connect with Me
