@@ -12,8 +12,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_token: ${{ secrets.GITHUB_TOKEN }}
@@ -21,15 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/
-
-      - name: Deploy to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
