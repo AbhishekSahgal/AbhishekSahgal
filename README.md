@@ -1,205 +1,84 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Abhishek+Sahgal!" alt="" /></a>
-    </h1>
-<h3 align="center">Software Engineer 🌐🛠️ </h3>
-<!-- <h1 align="center" style="margin-left: 10px;">
-  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/8469933.jpg" alt="banner" />
-</h1>  -->
-<h1 align="center" style="margin-left: 10px;">
-  <!-- <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" /> -->
-</h1>
-<br>
-<div align="center" style="background-color: #0d1117;">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
-    <tr>
-      <td width="50%" valign="top" align="left" style="padding-right: 20px; border: none;">
-          <div align="center">
-            <h2>
-              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
-              About Me
-              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
-            </h2>
-          </div>
-          <p>👨‍💻 👨‍💻 I'm a passionate Full Stack Developer and B.Tech (IT) student with a strong interest in building innovative web and mobile applications.</p>
-          <p>🚀 I focus on writing clean, efficient code, designing structured architectures, and solving real-world problems through practical projects like my GATE progress tracking application.</p>
-          <p>📚 I continuously explore new technologies including 🗄️ SQL/NoSQL databases, 🐳 AI/ML, and ☁️ cloud platforms to enhance my development skills and stay industry-ready.</p>
-          <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
-          <p>
-            <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,androidstudio,firebase,vscode,windows" alt="My Tech Stack" />
-          </p>
-      </td>
-      <td width="50%" valign="middle" align="center" style="border: none;">
-          <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" alt="Coding GIF"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>Languages</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,js,dart,py,c" alt="Languages" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>Frontend</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>Database</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>DevOps & Tools</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,androidstudio,windows" alt="DevOps" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130" valign="middle">
-      <b>Cloud</b>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,netlify," alt="Cloud" />
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">📊 Activity & Analytics</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhishekSahgal&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
-  
-  <br/>
-</div>
-
-<br/>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AbhishekSahgal">
-        <img src="https://acedev003-readme-stats.vercel.app/api?username=AbhishekSahgal&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&hide_border=true" alt="Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AbhishekSahgal">
-        <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=AbhishekSahgal&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit&hide_border=true" alt="Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AbhishekSahgal">
-    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=AbhishekSahgal&bg_color=0d1117&color=ffffff&line=FF3355&point=FF3355&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  </a>
-</div>
-
-<!-- <h2 align="center">🚀 Featured Repositories</h2> -->
-
-<!-- <table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AbhishekSahgal/Aspect_Based_Sentiment_Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekSahgal&repo=Aspect_Based_Sentiment_Analysis&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Aurora Hotel" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AbhishekSahgal/Flutter_Notes_Application
-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekSahgal&repo=Flutter_Notes_Application&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="CodeHub Platform" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/snapnow-social-media-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=snapnow-social-media-app&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SnapNow" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/solestore-ecommerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=solestore-ecommerce&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="SoleStore" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/huongbien-restaurant-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=huongbien-restaurant-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="HuongBien Restaurant" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/giasinguyen/giasi-dev-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=giasi-dev-portfolio&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table> -->
-<br>
+<!-- 🚀 Abhishek Sahgal's GitHub Profile README -->
+<!-- Generated with README Gen — customize freely! -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand" width="30" height="30" /> Random Dev Quote
+# 👋 Hi there, I'm **Abhishek Sahgal**!
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+### Full-Stack Developer & Android Developer
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack%20Developer%20%26%20Android%20Developer;Open%20Source%20Contributor;Always%20Learning%20%E2%9C%A8)
 
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands" width="30" height="30" /> Let's Connect & Collaborate
-
-### Building something awesome? Let's talk!
-
-<br>
-
-[![Website](https://img.shields.io/badge/🌐_Website-FF3355?style=for-the-badge&logoColor=white)](https://abhisheksahgal.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sahgal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek_sahgal_19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksahgal19@gmail.com)
-
-<br>
-
-### 🌟 Show some ❤️ by starring repositories you find interesting!
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br>
-
-**💼 Open to opportunities | 🤝 Available for collaborations | 💡 Let's build something amazing together!**
-
-<br>
-
-<sub>Made with 💖 and ☕ by <b>Abhishek Sahgal</b>
-</sub>
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekSahgal&color=00d4aa&style=flat-square)](https://github.com/AbhishekSahgal)
+![Status](https://img.shields.io/badge/Status-Building_Cool_Things-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Open_Source-e05397?style=flat-square)
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekSahgal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AbhishekSahgal)
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently building scalable web apps
+- 🌱 Learning Rust & WebAssembly
+- 💡 Open to collaboration on cool projects
+- ⚡ Fun fact: I debug in my sleep
+- 📍 Based in **Lucknow, Uttar Pradesh**
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-3fb950?style=for-the-badge&logo=nodejs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/AbhishekSahgal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekSahgal&theme=dark&hide_border=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSahgal&theme=dark&hide_border=true&count_private=true&layout=compact" />
+</a>
+
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbhishekSahgal&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/AbhishekSahgal/AbhishekSahgal/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> 💡 **To enable the snake:** Go to your profile repo → Actions → Enable workflows  
+> Then add [this workflow](https://github.com/Platane/snk#readme) to generate the SVG.
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sahgal)
+[![Twitter](https://img.shields.io/badge/@Abhisahgal19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhisahgal19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhisheksahgal.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksahgal19@gmail.com)
+
+---
+
+
+<div align="center">
+
+### ⭐ Thanks for visiting! Star a repo if you find it useful 🙏
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+</div>
