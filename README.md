@@ -1,5 +1,5 @@
 <!-- 🚀 Abhishek Sahgal's GitHub Profile README -->
-<!-- Generated with README Gen — customize freely! -->
+<!-- Generated with README Gen — customize freely -->
 
 <div align="center">
 
